@@ -1,4 +1,4 @@
-j# Grandma's Spaghetti
+# Grandma's Spaghetti
 
 This was Vicki Lake's famous spaghetti sauce recipe which she claims has been handed down throught the generations going back to the original family in Tuscany.
 
